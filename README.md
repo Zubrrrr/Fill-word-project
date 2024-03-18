@@ -1,4 +1,4 @@
 # Fill-word-project
 Fill word project
 Тест
-cat.png
+![Скриншот моего проекта](images/screenshot.png)
