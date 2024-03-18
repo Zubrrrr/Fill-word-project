@@ -32,10 +32,6 @@ public class LevelManager : MonoBehaviour
 
     public void GoToNextLevel()
     {
-       // _currentLevelIndex++;
-
-       // Scene currentScene = SceneManager.GetActiveScene();
-       // SceneManager.LoadScene(currentScene.name);
         // Загрузка нового уровня или обновление текущего сценария игры
     }
 }

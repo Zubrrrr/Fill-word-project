@@ -6,12 +6,6 @@ public class UiController : MonoBehaviour
     [SerializeField] private Image _notificationImage;
     [SerializeField] private string _hexIndex;
 
-    private void Start()
-    {
-        // Пример использования: изменение цвета на #FF5733 (какой-то оттенок оранжевого)
-        //ChangeImageColor(_hexIndex);
-    }
-
     public void ChangeImageColor(string hex)
     {
         if (ColorUtility.TryParseHtmlString(hex, out Color newColor))
@@ -33,7 +27,7 @@ public class UiController : MonoBehaviour
         else
         {
             Debug.LogError("Ошибка при конвертации HEX в цвет: " + hex);
-            return Color.black; // Возвращаем черный цвет в случае ошибки
+            return Color.black;
         }
     }
 }
