@@ -1,0 +1,1086 @@
+fileFormatVersion: 2
+guid: 5b6eaa516cfc743a197d9e80a19bdce0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AlphoBet_v3_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 761
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5003d891284e493a925536c191be7db
+      internalID: -1311281018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 761
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d483ca9b51e14f4ebbdcac4d0b3d1a3
+      internalID: 632964987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 761
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae799871b3c37448094d1c2853dacc05
+      internalID: 1865756836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 761
+        width: 72
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed29ed7290084bcbb87f526a735a22b
+      internalID: 406992367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 736
+        width: 102
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49552866e2604482984647eb76ea23e
+      internalID: 881920757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_6
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 761
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1d60d219d5c4dd6942e091db9aae17
+      internalID: -2062245605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_7
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 761
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3184f4ad5b2471ea490ef08ecadd80
+      internalID: 1734638170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_8
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 759
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c37324827b284bb49a2f75701badc9c
+      internalID: -1904458901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_9
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 761
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5b0b076f5e44d9cac0fd9858d44a1f
+      internalID: 2111405699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_10
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 761
+        width: 84
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d7c92d01a2c4b5a9ca10ee5fe53b4a
+      internalID: 1829720240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_11
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 761
+        width: 79
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df7150e5a5734ad596d432dd0738fd2
+      internalID: 2000002771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 542
+        width: 90
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b7dfbea15184b32bcb4f608176e25f
+      internalID: 515293030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_13
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 543
+        width: 102
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c533636c433d491d80e1fa02a5f2c9b
+      internalID: -579385844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_14
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 542
+        width: 84
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d03aa31738f435882b99dce5bf15cf
+      internalID: 124343742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_15
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 541
+        width: 103
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde775677b914b25b7c69c2cde61fb1
+      internalID: -818340800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_16
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 543
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6392446e9378b4c7098fbcf804d5169b
+      internalID: -373847153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 543
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29688f29188af492a912005762311cf4
+      internalID: -826429481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_18
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 541
+        width: 92
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a1f66139e984ea9b33e64acd3702b9
+      internalID: 1949656874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_19
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 543
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4889323ce0e6d4975a203dedd6659a8d
+      internalID: -165209338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_20
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 541
+        width: 92
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96e93bd4f4cb4f33bfc0b8725870ea8
+      internalID: -1441128739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_21
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 543
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5acefb8de2940759e4190a28fcfe91
+      internalID: -710823282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_22
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 324
+        width: 98
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac8fda7e200f47edb9c3d4f45606812
+      internalID: 1608665337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 300
+        width: 93
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6026458c1d8b249ad9382f43c8416fe8
+      internalID: -381745350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_24
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 324
+        width: 84
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f92b9c57c149979c1a77f6ac750a4
+      internalID: 553980373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 324
+        width: 126
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995021c2fb4694aa2a61e10f25dcd754
+      internalID: 482312834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_26
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 300
+        width: 135
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e0e9e5b6e74e789d78e5b08728c46
+      internalID: 1756746187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_27
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 324
+        width: 122
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba751af1dbed24379870f26b21f9f86d
+      internalID: 229021717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_29
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 324
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384e9b6cabe16436a9c614bfe5b2a850
+      internalID: -165071015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_30
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 324
+        width: 89
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f21143726048848c510b63bdb0dfd
+      internalID: -1212384496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_31
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 322
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0ec6a7b738040438a4f52b6b178a3c
+      internalID: -1536280556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_32
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 104
+        width: 134
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d37dc8dc1b2418598d907dae2a6f4c
+      internalID: 1603029088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 106
+        width: 95
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169f299b782a4fc2add3587843701c8
+      internalID: -1050435209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_34
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 106
+        width: 48
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ddad5e264a740b0a9aef27d3027792
+      internalID: -832370170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 106
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5c74bec247d47d0ab3f78baab5cd29
+      internalID: 335281122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_36
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 104
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffca32d336a104997b8be5799631ab7a
+      internalID: -657135662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_37
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 106
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caa3a8827d8f495abd21b9c9dc7fd71
+      internalID: -925084372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_38
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 104
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724ce4c325b64c65860aaee1406b4a2
+      internalID: -466423578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_39
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 104
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a1e268b793143d4ab66c945b05fe53
+      internalID: 1391973067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_40
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 106
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b74246136af247afa3e4cd036c8e09d
+      internalID: -583138533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_41
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 104
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51640c80a570c4fd1baec1d0ab410110
+      internalID: 1546629340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_42
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 104
+        width: 71
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e67d3a99d12e40b8b1e5697ee9cd35f
+      internalID: 1839784456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AlphoBet_v3_43
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 104
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845fe38f86b74396951304cd37f7bcb
+      internalID: 1044881313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      AlphoBet_v3_0: -2070679464
+      AlphoBet_v3_1: -1311281018
+      AlphoBet_v3_10: 1829720240
+      AlphoBet_v3_11: 2000002771
+      AlphoBet_v3_12: 515293030
+      AlphoBet_v3_13: -579385844
+      AlphoBet_v3_14: 124343742
+      AlphoBet_v3_15: -818340800
+      AlphoBet_v3_16: -373847153
+      AlphoBet_v3_17: -826429481
+      AlphoBet_v3_18: 1949656874
+      AlphoBet_v3_19: -165209338
+      AlphoBet_v3_2: 632964987
+      AlphoBet_v3_20: -1441128739
+      AlphoBet_v3_21: -710823282
+      AlphoBet_v3_22: 1608665337
+      AlphoBet_v3_23: -381745350
+      AlphoBet_v3_24: 553980373
+      AlphoBet_v3_25: 482312834
+      AlphoBet_v3_26: 1756746187
+      AlphoBet_v3_27: 229021717
+      AlphoBet_v3_28: 575689437
+      AlphoBet_v3_29: -165071015
+      AlphoBet_v3_3: 1865756836
+      AlphoBet_v3_30: -1212384496
+      AlphoBet_v3_31: -1536280556
+      AlphoBet_v3_32: 1603029088
+      AlphoBet_v3_33: -1050435209
+      AlphoBet_v3_34: -832370170
+      AlphoBet_v3_35: 335281122
+      AlphoBet_v3_36: -657135662
+      AlphoBet_v3_37: -925084372
+      AlphoBet_v3_38: -466423578
+      AlphoBet_v3_39: 1391973067
+      AlphoBet_v3_4: 406992367
+      AlphoBet_v3_40: -583138533
+      AlphoBet_v3_41: 1546629340
+      AlphoBet_v3_42: 1839784456
+      AlphoBet_v3_43: 1044881313
+      AlphoBet_v3_5: 881920757
+      AlphoBet_v3_6: -2062245605
+      AlphoBet_v3_7: 1734638170
+      AlphoBet_v3_8: -1904458901
+      AlphoBet_v3_9: 2111405699
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
